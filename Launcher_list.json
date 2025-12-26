@@ -1,0 +1,14 @@
+﻿{
+    "files":  [
+                  {
+                      "name":  "Newtonsoft.Json.dll",
+                      "sha256":  "f0c07af0e84d4dd4da4bd7823ba4535bc0481b3bf623ed40b659b68147a6bb75",
+                      "url":  "http://192.168.31.212/cloud/R2launcher/Newtonsoft.Json.dll"
+                  },
+                  {
+                      "name":  "R2OnlineLauncher.exe",
+                      "sha256":  "903091a149479ec15e6a20bcaf477c70506d7777ebbde62454257cf5b2ff86cb",
+                      "url":  "http://192.168.31.212/cloud/R2launcher/R2OnlineLauncher.exe"
+                  }
+              ]
+}
